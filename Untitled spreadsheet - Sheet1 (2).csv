@@ -1,0 +1,401 @@
+job_id,category,title,description
+1,Eligibility,Core Eligibility Criteria,"Must be a citizen of India, aged 21-32 (relaxations for reserved categories). Bachelor's degree from a recognized university required. Physical standards apply for certain services. No attempt limit beyond age."
+1,Exam Pattern,Three-Stage Selection,"Prelims (MCQ, 400 marks, qualifying), Mains (9 papers, 1750 marks, descriptive), Interview (275 marks). Total merit based on Mains + Interview."
+1,Key Role,Administrative Leadership,"Leads district/state administration, policy implementation, crisis management, and public welfare programs. Involves decision-making at central/state levels."
+1,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + allowances (DA, HRA). Includes medical, housing, pension, and foreign postings. Gross ~₹1-1.5L/month initially."
+2,Eligibility,Core Eligibility Criteria,"Must be a citizen of India, aged 21-32 (relaxations for reserved categories). Bachelor's degree from a recognized university required. Physical fitness mandatory (height, chest, vision standards)."
+2,Exam Pattern,Three-Stage Selection,"Prelims (MCQ, 400 marks, qualifying), Mains (9 papers, 1750 marks, descriptive), Interview (275 marks). Total merit based on Mains + Interview."
+2,Key Role,Law Enforcement Officer,"Maintains law & order, leads police forces, investigates crimes, and ensures public safety. Involves field operations and administrative duties."
+2,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + allowances (DA, HRA). Includes medical, housing, pension, and risk allowances. Gross ~₹1-1.5L/month initially."
+3,Eligibility,Core Eligibility Criteria,"Must be a citizen of India, aged 21-32 (relaxations for reserved categories). Bachelor's degree from a recognized university required. Preference for science/engineering backgrounds."
+3,Exam Pattern,Three-Stage Selection,"Prelims (MCQ, 400 marks, qualifying), Mains (9 papers, 1750 marks, descriptive), Interview (275 marks). Total merit based on Mains + Interview."
+3,Key Role,Forest Conservation Officer,"Manages wildlife sanctuaries, implements environmental policies, combats deforestation, and promotes sustainable development."
+3,Salary & Benefits,Competitive Pay Scale,"Starting ₹60,000 (Level 10) + allowances (DA, HRA). Includes field postings, medical, and eco-related perks. Gross ~₹1-1.5L/month initially."
+4,Eligibility,Basic Academic Requirements,Aged 21-30. Graduation with 60% marks (50% for reserved). Knowledge of economics/banking preferred.
+4,Exam Pattern,Two-Phase Exam,"Phase I (Prelims: objective, 200 marks), Phase II (Mains: descriptive + objective, 300 marks), Interview (75 marks)."
+4,Key Role,Monetary Policy Expert,"Regulates banking sector, formulates economic policies, manages foreign exchange, and advises on financial stability."
+4,Salary & Benefits,High Remuneration Package,"Starting ₹70,000 (Level 10) + DA, HRA. Includes pension, medical, LTC, and education allowances. Gross ~₹1.2-1.8L/month."
+5,Eligibility,Graduation Mandate,Aged 20-30. Any bachelor's degree. Computer proficiency required.
+5,Exam Pattern,Three-Tier Process,"Prelims (100 marks objective), Mains (200 marks objective + descriptive), Group Discussion/Interview (20 marks)."
+5,Key Role,Branch Banking Officer,"Manages daily operations, customer service, loan processing, and sales targets in bank branches."
+5,Salary & Benefits,Attractive Banking Perks,"Starting ₹40,000 (Level 7) + incentives. Includes PF, medical, housing loan subsidies. Gross ~₹60K-80K/month."
+6,Eligibility,Educational Qualification,Aged 20-30. Graduation in any discipline. Basic computer knowledge.
+6,Exam Pattern,Common Recruitment,"Prelims (100 questions, 100 marks), Mains (155 questions, 200 marks), Interview (100 marks)."
+6,Key Role,Public Sector Banker,"Handles accounts, transactions, customer queries, and compliance in government banks."
+6,Salary & Benefits,Standard Pay Structure,"Starting ₹35,000 (Level 7) + allowances. PF, gratuity, medical coverage. Gross ~₹50K-70K/month."
+7,Eligibility,Bachelor's Degree Required,Aged 18-32. Graduation from recognized university. Typing speed test for some posts.
+7,Exam Pattern,Tiered Examination,"Tier 1 (Prelims: 200 marks MCQ), Tier 2 (Mains: 200 marks), Tier 3 (Skill Test for select posts), Document Verification."
+7,Key Role,Assistant Audit Officer,"Assists in financial audits, compliance checks, and reporting for government accounts."
+7,Salary & Benefits,Government Scale Benefits,"Starting ₹45,000 (Level 8) + DA, HRA. Pension, medical, LTC. Gross ~₹70K-90K/month."
+8,Eligibility,12th Standard Minimum,"Aged 16.5-19.5. 10+2 with Physics, Chemistry, Maths (PCM). Unmarried males only."
+8,Exam Pattern,Written + SSB,"Written Exam (900 marks: Maths, GAT, English, Science), SSB Interview (900 marks: psychological, group tasks)."
+8,Key Role,Future Defence Officer,"Trains to become Army/Navy/Air Force officer, leading troops in national defence."
+8,Salary & Benefits,Defence Cadet Allowances,"Starting ₹56,100 (Level 10 post-training) + kit maintenance. Full medical, education, canteen facilities."
+9,Eligibility,Engineering Background,Aged 21-35. B.Tech/B.E. with 65% (60% reserved). GATE score preferred.
+9,Exam Pattern,Written Test + Interview,"Written Exam (80 marks objective), Skill Test/Interview (20 marks)."
+9,Key Role,Space Research Scientist,"Develops satellites, conducts experiments, and contributes to ISRO missions like Chandrayaan."
+9,Salary & Benefits,Scientist Pay Matrix,"Starting ₹60,000 (Level 10) + HRA, DA. Research grants, housing, medical. Gross ~₹90K-1.2L/month."
+10,Eligibility,Technical Graduation,Aged 21-28. First-class B.Tech/B.E. in relevant field.
+10,Exam Pattern,GATE + Written/Interview,"GATE Screening, Written Test (120 marks), Interview (selection based)."
+10,Key Role,Defence R&D Specialist,"Designs weapons, conducts trials, and innovates for DRDO projects in aerospace/defence tech."
+10,Salary & Benefits,R&D Incentives,"Starting ₹60,000 (Level 10) + project allowances. Medical, pension, tech perks. Gross ~₹90K-1.2L/month."
+11,Eligibility,Engineering Degree Essential,Aged 21-30. B.E./B.Tech in Civil/Mechanical/Electrical/Electronics.
+11,Exam Pattern,UPSC ESE Stages,"Prelims (500 marks objective), Mains (600 marks conventional), Interview (200 marks)."
+11,Key Role,Railway Engineering Officer,"Oversees track maintenance, signaling, and infrastructure projects for Indian Railways."
+11,Salary & Benefits,Railway Service Perks,"Starting ₹56,100 (Level 10) + passes, quarters. Medical, pension. Gross ~₹1-1.3L/month."
+12,Eligibility,Any Graduation,Aged 21-30. Bachelor's degree. Computer awareness.
+12,Exam Pattern,Online Exam + Interview,"Prelims (100 marks), Mains (300 marks), Interview (60 marks)."
+12,Key Role,Insurance Agent Officer,"Sells policies, assesses risks, and manages client portfolios for LIC."
+12,Salary & Benefits,Insurance Sector Pay,"Starting ₹40,000 (Level 8) + commissions. PF, medical, incentives. Gross ~₹60K-1L/month."
+13,Eligibility,Diplomatic Fitness,Aged 21-32. Graduation. Language aptitude test.
+13,Exam Pattern,Three-Stage Selection,"Prelims (MCQ, 400 marks), Mains (9 papers, 1750 marks), Interview (275 marks)."
+13,Key Role,Foreign Affairs Diplomat,"Represents India abroad, negotiates treaties, and promotes international relations."
+13,Salary & Benefits,Diplomatic Allowances,"Starting ₹60,000 (Level 10) + foreign postings pay. Housing, education for kids. Gross ~₹1.5-2L/month abroad."
+14,Eligibility,Economic Expertise,Aged 21-30. Graduation. Finance/banking knowledge.
+14,Exam Pattern,Two-Phase Exam,"Phase I (Prelims: 200 marks), Phase II (Mains: 300 marks), Interview (75 marks)."
+14,Key Role,Central Banking Officer,"Assists in monetary policy, supervision, and economic research at RBI."
+14,Salary & Benefits,RBI Employee Benefits,"Starting ₹55,200 (Level 10) + DA, HRA. Pension, medical, LTC. Gross ~₹1-1.5L/month."
+15,Eligibility,Defence Aspirant Basics,Aged 19-24. Graduation for CDS; 12th for NDA/AFCAT variants.
+15,Exam Pattern,Exam + SSB,"Written (100-300 marks), SSB (5-day process: tests, interviews)."
+15,Key Role,Armed Forces Leader,"Commands units, strategizes operations, and ensures national security."
+15,Salary & Benefits,Military Compensation,"Starting ₹56,100 (Level 10) + risk pay. Canteen, medical, pension. Gross ~₹80K-1.2L/month."
+16,Eligibility,GATE Qualified Engineers,Aged 21-27. B.Tech with valid GATE score.
+16,Exam Pattern,GATE + Company Test,"GATE Score (70% weight), GD/Interview (30%)."
+16,Key Role,PSU Technical Expert,"Handles project execution, maintenance, and innovation in public sector undertakings."
+16,Salary & Benefits,PSU Executive Pay,"Starting ₹50,000 (Level 10) + performance incentives. Housing, medical. Gross ~₹80K-1.2L/month."
+17,Eligibility,Post-Graduation Required,Aged 21-40. Master's degree + NET qualification.
+17,Exam Pattern,UGC NET Exam,"Paper 1 (General: 100 marks), Paper 2 (Subject: 200 marks). JRF separate."
+17,Key Role,Academic Lecturer,"Teaches undergraduate courses, conducts research, and mentors students."
+17,Salary & Benefits,UGC Scale,"Starting ₹37,400 (Level 10) + research grants. Medical, pension. Gross ~₹60K-90K/month."
+18,Eligibility,Graduation Essential,Aged 18-32. Bachelor's degree.
+18,Exam Pattern,Tiered SSC Process,"Tier 1 (200 marks), Tier 2 (200 marks), Tier 3 (skill), Verification."
+18,Key Role,Government Administrative Assistant,"Supports officers in file management, drafting, and coordination."
+18,Salary & Benefits,SSC Cadre Benefits,"Starting ₹25,500 (Level 7) + DA. HRA, medical. Gross ~₹40K-60K/month."
+19,Eligibility,Commerce Background Preferred,Aged 21-32. Graduation.
+19,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+19,Key Role,Financial Auditor,"Conducts CAG audits, ensures fiscal accountability in govt departments."
+19,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + allowances. Pension, LTC. Gross ~₹1-1.5L/month."
+20,Eligibility,Any Discipline Graduation,Aged 21-32. Bachelor's degree.
+20,Exam Pattern,Three-Stage Selection,"Prelims (MCQ, 400 marks), Mains (9 papers, 1750 marks), Interview (275 marks)."
+20,Key Role,Accounts Service Officer,"Manages central govt accounts, budgeting, and financial reporting."
+20,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + DA, HRA. Medical, housing. Gross ~₹1-1.5L/month."
+21,Eligibility,Legal Knowledge Base,Aged 21-32. Graduation + law interest.
+21,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+21,Key Role,Corporate Law Advisor,"Handles legal affairs, compliance, and corporate governance for govt entities."
+21,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + allowances. Pension, medical. Gross ~₹1-1.5L/month."
+22,Eligibility,Finance/Accounts Degree,Aged 21-32. Graduation.
+22,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+22,Key Role,Defence Finance Manager,"Audits defence budgets, procurement, and expenditure controls."
+22,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + DA. HRA, LTC. Gross ~₹1-1.5L/month."
+23,Eligibility,Any Graduation,Aged 21-32. Bachelor's degree.
+23,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+23,Key Role,Estate Management Officer,"Oversees defence lands, cantonments, and property administration."
+23,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + housing perks. Medical, pension. Gross ~₹1-1.5L/month."
+24,Eligibility,Communication Skills,Aged 21-32. Graduation.
+24,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+24,Key Role,Public Information Officer,"Manages media relations, campaigns, and info dissemination for govt."
+24,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + allowances. Travel perks. Gross ~₹1-1.5L/month."
+25,Eligibility,Any Bachelor's,Aged 21-32. Graduation.
+25,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+25,Key Role,Postal Service Administrator,"Oversees mail operations, rural post offices, and philately services."
+25,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + DA, HRA. Pension. Gross ~₹1-1.5L/month."
+26,Eligibility,Telecom/Finance Interest,Aged 21-32. Graduation.
+26,Exam Pattern,Three-Stage Selection,"Prelims (400 marks), Mains (1750 marks), Interview (275 marks)."
+26,Key Role,Telecom Accounts Officer,"Manages BSNL/MTNL finances, billing, and regulatory compliance."
+26,Salary & Benefits,Competitive Pay Scale,"Starting ₹56,100 (Level 10) + telecom perks. Medical. Gross ~₹1-1.5L/month."
+27,Eligibility,Diploma in Engineering,Aged 18-32. Diploma/B.Tech in Civil/Mech/Elec/Electronics.
+27,Exam Pattern,SSC JE Format,"Paper 1 (200 marks objective), Paper 2 (300 marks descriptive)."
+27,Key Role,Technical Supervisor,"Designs, maintains infrastructure for govt departments like CPWD."
+27,Salary & Benefits,JE Pay Band,"Starting ₹35,400 (Level 6) + allowances. HRA, medical. Gross ~₹50K-70K/month."
+28,Eligibility,Graduation Required,Aged 18-30. Bachelor's degree.
+28,Exam Pattern,Tiered SSC CGL,"Tier 1 (200 marks), Tier 2 (400 marks for finance posts)."
+28,Key Role,Tax Assessor,"Conducts income tax assessments, raids, and recovery operations."
+28,Salary & Benefits,Inspector Grade,"Starting ₹44,900 (Level 7) + DA. Risk allowance. Gross ~₹70K-90K/month."
+29,Eligibility,Any Graduation,Aged 20-30. Bachelor's.
+29,Exam Pattern,Tiered SSC CGL,"Tier 1 (200 marks), Tier 2 (200 marks), Computer Proficiency."
+29,Key Role,Section Officer,Assists ministers in policy drafting and parliamentary affairs.
+29,Salary & Benefits,SO Pay Scale,"Starting ₹44,900 (Level 7) + HRA. Pension. Gross ~₹70K-90K/month."
+30,Eligibility,Graduation Essential,Aged 20-30. Bachelor's degree.
+30,Exam Pattern,Tiered SSC CGL,"Tier 1 (200 marks), Tier 2 (200 marks), Physical Test."
+30,Key Role,CBI Investigator,"Probes economic offences, corruption, and cyber crimes."
+30,Salary & Benefits,SI Grade Benefits,"Starting ₹44,900 (Level 7) + allowances. Medical. Gross ~₹70K-90K/month."
+31,Eligibility,12th Pass Minimum,Aged 18-27. Higher secondary.
+31,Exam Pattern,SSC CHSL Tiers,"Tier 1 (200 marks), Tier 2 (190 marks skill/typing)."
+31,Key Role,Office Clerk,"Handles data entry, filing, and routine admin tasks."
+31,Salary & Benefits,LDC Pay,"Starting ₹19,900 (Level 2) + DA. HRA. Gross ~₹30K-40K/month."
+32,Eligibility,12th Standard,Aged 18-27. 10+2 qualification.
+32,Exam Pattern,SSC CHSL Process,"Tier 1 (objective), Tier 2 (descriptive + skill)."
+32,Key Role,Secretariat Assistant,Supports secretariat in correspondence and record-keeping.
+32,Salary & Benefits,JSA Scale,"Starting ₹19,900 (Level 2) + allowances. Medical. Gross ~₹30K-40K/month."
+33,Eligibility,Intermediate Level,Aged 18-27. 12th pass.
+33,Exam Pattern,CHSL Tiers,"Tier 1 (200 marks), Tier 2 (data entry speed test)."
+33,Key Role,Data Operator,Enters and verifies data for govt databases.
+33,Salary & Benefits,DEO Benefits,"Starting ₹25,500 (Level 4) + DA. Pension. Gross ~₹40K-50K/month."
+34,Eligibility,Matriculation,Aged 18-25. 10th pass.
+34,Exam Pattern,SSC MTS Exam,"Paper 1 (computer-based, 100 marks), Paper 2 (descriptive)."
+34,Key Role,Multi-Task Worker,"Performs cleaning, gardening, and basic office support."
+34,Salary & Benefits,MTS Pay Band,"Starting ₹18,000 (Level 1) + HRA. Medical. Gross ~₹25K-35K/month."
+35,Eligibility,Basic Education,Aged 18-25. 10th standard.
+35,Exam Pattern,Direct Recruitment,Written test + physical efficiency test.
+35,Key Role,Security Guard,"Patrols premises, checks access, and maintains order."
+35,Salary & Benefits,Group C Pay,"Starting ₹18,000 (Level 1) + uniform allowance. Gross ~₹25K-35K/month."
+36,Eligibility,10th Pass,Aged 18-33. Matriculation.
+36,Exam Pattern,RRB Group D CBT,Computer-based test (100 marks) + PET.
+36,Key Role,Office Peon,"Assists in errands, message delivery, and maintenance."
+36,Salary & Benefits,Group D Scale,"Starting ₹18,000 (Level 1) + railway passes. Gross ~₹25K-35K/month."
+37,Eligibility,Literacy Level,Aged 18-33. 10th pass + driving license.
+37,Exam Pattern,RRB Group D Test,CBT + physical test.
+37,Key Role,Railway Driver,Operates non-technical vehicles like jeeps.
+37,Salary & Benefits,Trackman Pay,"Starting ₹19,900 (Level 2) + overtime. Medical. Gross ~₹30K-45K/month."
+38,Eligibility,Basic Qualification,Aged 18-33. 10th standard.
+38,Exam Pattern,Group D Recruitment,CBT (100 questions).
+38,Key Role,Signal Pointsman,Manages railway signals and points for train movement.
+38,Salary & Benefits,Helper Grade,"Starting ₹18,000 (Level 1) + shift allowance. Gross ~₹25K-35K/month."
+39,Eligibility,School Level,Aged 18-33. 10th pass.
+39,Exam Pattern,RRB CBT + PET,Objective test + efficiency test.
+39,Key Role,Track Maintainer,Repairs and inspects railway tracks for safety.
+39,Salary & Benefits,Maintenance Staff Pay,"Starting ₹18,000 (Level 1) + tools provided. Gross ~₹25K-35K/month."
+40,Eligibility,Minimal Education,Aged 18-33. 8th pass.
+40,Exam Pattern,Group D Selection,Basic written + medical.
+40,Key Role,Railway Cleaner,"Maintains coaches, stations, and hygiene."
+40,Salary & Benefits,Sweeper Scale,"Starting ₹18,000 (Level 1) + uniform. Gross ~₹25K-35K/month."
+41,Eligibility,Engineering Graduation,Aged 21-30. B.Tech in relevant stream.
+41,Exam Pattern,UPSC ESE/IRMS,"Prelims (500 marks), Mains (600 marks), Interview."
+41,Key Role,Railway Manager,"Oversees operations, HR, and commercial aspects of IRMS."
+41,Salary & Benefits,IRMS Pay Matrix,"Starting ₹56,100 (Level 10) + travel perks. Gross ~₹1-1.3L/month."
+42,Eligibility,Graduation Required,Aged 21-32. Bachelor's.
+42,Exam Pattern,Three-Stage CSE,"Prelims, Mains, Interview."
+42,Key Role,Customs & Tax Officer,"Enforces indirect taxes, manages imports/exports."
+42,Salary & Benefits,IRS Benefits,"Starting ₹56,100 (Level 10) + anti-smuggling allowance. Gross ~₹1-1.5L/month."
+43,Eligibility,Any Degree,Aged 21-32. Graduation.
+43,Exam Pattern,CSE Process,"Prelims (400 marks), Mains (1750 marks), Interview."
+43,Key Role,Income Tax Administrator,"Assesses direct taxes, audits, and appeals."
+43,Salary & Benefits,Standard IRS Pay,"Starting ₹56,100 (Level 10) + DA. Medical. Gross ~₹1-1.5L/month."
+44,Eligibility,Commerce/Trade Focus,Aged 21-32. Graduation.
+44,Exam Pattern,UPSC CSE,Three stages as standard.
+44,Key Role,Trade Policy Officer,Negotiates trade agreements and promotes exports.
+44,Salary & Benefits,Trade Service Perks,"Starting ₹56,100 (Level 10) + foreign travel. Gross ~₹1-1.5L/month."
+45,Eligibility,Technical/Defence Interest,Aged 21-32. Graduation.
+45,Exam Pattern,CSE Selection,"Prelims, Mains, Interview."
+45,Key Role,Ordnance Factory Manager,Oversees arms/ammo production and quality control.
+45,Salary & Benefits,IOFS Scale,"Starting ₹56,100 (Level 10) + security clearance perks. Gross ~₹1-1.5L/month."
+46,Eligibility,Graduation in Any Field,Aged 21-30. Bachelor's.
+46,Exam Pattern,UPSC CSE Variant,"Prelims (400 marks), Mains, Interview."
+46,Key Role,AFHQ Civil Servant,Assists in defence HQ planning and administration.
+46,Salary & Benefits,Group B Pay,"Starting ₹47,600 (Level 8) + military facilities. Gross ~₹70K-1L/month."
+47,Eligibility,Delhi Services Fit,Aged 21-32. Graduation.
+47,Exam Pattern,CSE for DANICS,Standard three stages.
+47,Key Role,Delhi District Admin,"Manages urban services, revenue, and elections in Delhi."
+47,Salary & Benefits,Central Pay + Local,"Starting ₹56,100 (Level 10) + HRA. Gross ~₹1-1.5L/month."
+48,Eligibility,Police Service Criteria,Aged 21-32. Graduation + physical standards.
+48,Exam Pattern,CSE Process,"Prelims, Mains, Interview + PET."
+48,Key Role,Delhi Police Officer,Leads law enforcement in national capital.
+48,Salary & Benefits,DANIPS Benefits,"Starting ₹56,100 (Level 10) + uniform allowance. Gross ~₹1-1.5L/month."
+49,Eligibility,Pondicherry Admin Fit,Aged 21-32. Graduation.
+49,Exam Pattern,UPSC CSE,Three-stage selection.
+49,Key Role,Union Territory Administrator,Handles governance in Pondicherry UT.
+49,Salary & Benefits,PONDICS Scale,"Starting ₹56,100 (Level 10) + island postings. Gross ~₹1-1.5L/month."
+50,Eligibility,Law & Order Focus,Aged 21-32. Graduation + fitness.
+50,Exam Pattern,CSE + Physical,"Prelims, Mains, Interview."
+50,Key Role,Pondicherry Police Head,Maintains security in union territory.
+50,Salary & Benefits,PONDIPS Pay,"Starting ₹56,100 (Level 10) + risk pay. Gross ~₹1-1.5L/month."
+51,Eligibility,Engineering Proficiency,Aged 21-30. B.E./B.Tech.
+51,Exam Pattern,UPSC ESE,"Prelims (500 marks), Mains (600 marks), Interview (200 marks)."
+51,Key Role,IES Engineer,Designs infrastructure for central projects like roads/bridges.
+51,Salary & Benefits,IES Matrix,"Starting ₹56,100 (Level 10) + technical allowances. Gross ~₹1-1.3L/month."
+52,Eligibility,Finance/Commerce Grad,Aged 21-30. Bachelor's + CA/CS preferred.
+52,Exam Pattern,SEBI Phase I/II,"Phase I (200 marks), Phase II (300 marks), Interview."
+52,Key Role,Market Regulator,"Supervises stock exchanges, prevents fraud, protects investors."
+52,Salary & Benefits,SEBI Grade A,"Starting ₹44,500 (Level 10) + performance bonus. Gross ~₹1-1.5L/month."
+53,Eligibility,Rural Development Focus,Aged 21-30. Graduation in Agri/Economics.
+53,Exam Pattern,NABARD Prelims/Mains,"Prelims (200 marks), Mains (200 marks), Interview."
+53,Key Role,Agriculture Banker,"Finances rural projects, assesses agri-loans."
+53,Salary & Benefits,Grade A Pay,"Starting ₹44,100 (Level 10) + rural allowance. Gross ~₹80K-1.2L/month."
+54,Eligibility,Advanced Degree,Aged 21-30. Post-graduation in relevant field.
+54,Exam Pattern,NABARD Exam,"Prelims, Mains, Psychometric Test."
+54,Key Role,Senior Rural Specialist,Formulates policies for NABARD's development programs.
+54,Salary & Benefits,Grade B Scale,"Starting ₹55,200 (Level 11) + DA. Medical. Gross ~₹1-1.5L/month."
+55,Eligibility,Medical Graduation,Aged 25-35. MBBS + internship.
+55,Exam Pattern,NEET PG/AIIMS,PG Entrance (200 marks) + interview.
+55,Key Role,Govt Hospital Doctor,"Treats patients, conducts surgeries in public health facilities."
+55,Salary & Benefits,Central Health Service,"Starting ₹56,100 (Level 10) + NPA. Housing, medical. Gross ~₹1-1.5L/month."
+56,Eligibility,Doctoral Qualification,No age limit. PhD + NET.
+56,Exam Pattern,UGC NET/Interview,NET (300 marks) + viva.
+56,Key Role,University Professor,"Lectures, researches, and guides PhD students."
+56,Salary & Benefits,Academic Level 12,"Starting ₹78,800 + grants. Sabbaticals. Gross ~₹1.2-1.8L/month."
+57,Eligibility,Service Commitment,Aged 19-24. Graduation.
+57,Exam Pattern,CDS/AFCAT,Written + SSB.
+57,Key Role,Commissioned Officer,Leads military operations in army/navy/air force.
+57,Salary & Benefits,PBOR Pay + Allowances,"Starting ₹56,100 (Level 10) + MSP. Canteen. Gross ~₹80K-1.2L/month."
+58,Eligibility,Graduation,Aged 18-27. Bachelor's.
+58,Exam Pattern,SSC CGL Tiers,Tier 1-4 with PET.
+58,Key Role,Customs Preventive Officer,"Guards borders, checks smuggling."
+58,Salary & Benefits,PO Grade,"Starting ₹44,900 (Level 7) + uniform. Gross ~₹70K-90K/month."
+59,Eligibility,Any Degree,Aged 18-30. Graduation.
+59,Exam Pattern,CGL Process,Tiers 1-2.
+59,Key Role,Tax Officer,Manages assessments and appeals.
+59,Salary & Benefits,ITO Scale,"Starting ₹44,900 (Level 7) + DA. Gross ~₹70K-90K/month."
+60,Eligibility,Diplomatic Aptitude,Aged 20-30. Graduation.
+60,Exam Pattern,CGL Tiers,"Tier 1 (200 marks), Tier 2."
+60,Key Role,Foreign Affairs Assistant,Supports embassies with admin and protocol.
+60,Salary & Benefits,MEA ASO Pay,"Starting ₹44,900 (Level 7) + overseas allowance. Gross ~₹70K-1L/month."
+61,Eligibility,Railway Engineering,Aged 21-30. B.Tech.
+61,Exam Pattern,ESE/IRTS,"Prelims, Mains, Interview."
+61,Key Role,Transport Service Officer,Manages railway traffic and commercial ops.
+61,Salary & Benefits,IRTS Benefits,"Starting ₹56,100 (Level 10) + passes. Gross ~₹1-1.3L/month."
+62,Eligibility,Economics Mastery,Aged 21-30. PG in Economics.
+62,Exam Pattern,IES Exam,"Written (1000 marks), Viva (200 marks)."
+62,Key Role,Economic Analyst,Advises on fiscal policies and planning.
+62,Salary & Benefits,IES Pay Matrix,"Starting ₹56,100 (Level 10) + research perks. Gross ~₹1-1.5L/month."
+63,Eligibility,Banking Basics,Aged 20-28. Graduation.
+63,Exam Pattern,IBPS Clerk Prelims/Mains,"Prelims (100 marks), Mains (190 marks)."
+63,Key Role,Bank Clerk,Processes transactions and customer service.
+63,Salary & Benefits,Clerical Cadre,"Starting ₹19,900 (Level 5) + DA. Gross ~₹30K-45K/month."
+64,Eligibility,Any Graduation,Aged 20-28. Bachelor's.
+64,Exam Pattern,RBI Assistant Test,"Prelims (100 marks), Mains (200 marks), Language Proficiency."
+64,Key Role,RBI Support Staff,Assists in currency management and admin.
+64,Salary & Benefits,Assistant Grade,"Starting ₹16,900 (Level 5) + HRA. Gross ~₹25K-40K/month."
+65,Eligibility,IT Specialization,Up to 35. Relevant degree like BCA/MCA.
+65,Exam Pattern,IBPS SO,"Prelims (125 marks), Mains (200 marks professional)."
+65,Key Role,IT Specialist Officer,Manages bank IT systems and cybersecurity.
+65,Salary & Benefits,SO Pay,"Starting ₹47,600 (Level 8) + tech allowance. Gross ~₹80K-1.2L/month."
+66,Eligibility,State-Level Fit,Aged 21-40. Graduation.
+66,Exam Pattern,State PSC Prelims/Mains,"Prelims (400 marks), Mains (subjective), Interview."
+66,Key Role,Sub-Divisional Magistrate,"Administers sub-divisions, revenue collection."
+66,Salary & Benefits,State PCS Scale,"Starting ₹56,100 (Level 10 equiv.) + local perks. Gross ~₹1-1.5L/month."
+67,Eligibility,Revenue Knowledge,Aged 21-35. Graduation.
+67,Exam Pattern,State PSC Exam,Two stages + interview.
+67,Key Role,Land Revenue Officer,Manages land records and disputes.
+67,Salary & Benefits,Tehsildar Pay,"Starting ₹47,600 (Level 8) + field allowance. Gross ~₹70K-1L/month."
+68,Eligibility,Development Focus,Aged 21-35. Graduation in social sciences.
+68,Exam Pattern,State PSC,"Prelims, Mains, Interview."
+68,Key Role,Block Development Officer,Implements rural schemes like MGNREGA.
+68,Salary & Benefits,BDO Scale,"Starting ₹47,600 (Level 8) + travel. Gross ~₹70K-1L/month."
+69,Eligibility,12th Pass,Aged 18-27. Higher secondary.
+69,Exam Pattern,CHSL Tiers,Tier 1-2 + typing.
+69,Key Role,Lower Division Clerk,Routine clerical work in ministries.
+69,Salary & Benefits,LDC Benefits,"Starting ₹19,900 (Level 2) + DA. Gross ~₹30K-40K/month."
+70,Eligibility,Intermediate,Aged 18-27. 12th.
+70,Exam Pattern,SSC CHSL,Objective + skill test.
+70,Key Role,Postal Assistant,Sorts mail and handles counter services.
+70,Salary & Benefits,PA Pay,"Starting ₹25,500 (Level 4) + allowances. Gross ~₹40K-50K/month."
+71,Eligibility,Civil Engineering Diploma,Aged 18-32. Diploma/B.Tech Civil.
+71,Exam Pattern,SSC JE,Paper 1-2.
+71,Key Role,Junior Civil Engineer,Supervises construction in govt projects.
+71,Salary & Benefits,JE Civil Scale,"Starting ₹35,400 (Level 6) + HRA. Gross ~₹50K-70K/month."
+72,Eligibility,10th Pass + Fitness,Aged 18-23. Matriculation.
+72,Exam Pattern,SSC GD CBT + PET,Computer test + physical.
+72,Key Role,Constable in CAPF,Guards borders and VIPs.
+72,Salary & Benefits,GD Pay,"Starting ₹21,700 (Level 3) + risk pay. Gross ~₹35K-50K/month."
+73,Eligibility,12th Standard,Aged 18-30. 10+2.
+73,Exam Pattern,RRB NTPC CBT 1/2,"Stage 1 (100 marks), Stage 2 (120 marks)."
+73,Key Role,Railway Clerk,Manages tickets and records.
+73,Salary & Benefits,NTPC Junior Pay,"Starting ₹19,900 (Level 2) + passes. Gross ~₹30K-45K/month."
+74,Eligibility,Graduation,Aged 18-33. Bachelor's.
+74,Exam Pattern,RRB NTPC,CBT stages + typing.
+74,Key Role,Commercial Apprentice,Handles sales and accounts in railways.
+74,Salary & Benefits,Apprentice Scale,"Starting ₹35,400 (Level 6) + training stipend. Gross ~₹50K-70K/month."
+75,Eligibility,Any Degree,Aged 18-33. Graduation.
+75,Exam Pattern,NTPC Process,"CBT 1, CBT 2, CBAT."
+75,Key Role,Station Master,Controls train movements and safety.
+75,Salary & Benefits,SM Pay,"Starting ₹35,400 (Level 6) + shift allowance. Gross ~₹50K-70K/month."
+76,Eligibility,10th Pass,Aged 18-33. Matric.
+76,Exam Pattern,RRB Group D,CBT + PET.
+76,Key Role,Track Maintainer,Inspects and repairs rail lines.
+76,Salary & Benefits,Group D Benefits,"Starting ₹18,000 (Level 1) + OT. Gross ~₹25K-35K/month."
+77,Eligibility,Diploma Engineering,Aged 18-33. Diploma in relevant field.
+77,Exam Pattern,RRB JE CBT,"CBT 1 (100 marks), CBT 2 (150 marks)."
+77,Key Role,Junior Engineer,Maintains railway engineering works.
+77,Salary & Benefits,JE Scale,"Starting ₹35,400 (Level 6) + technical pay. Gross ~₹50K-70K/month."
+78,Eligibility,10th + ITI,Aged 18-30. Matric + trade certificate.
+78,Exam Pattern,RRB ALP CBT,CBT 1/2 + aptitude test.
+78,Key Role,Assistant Loco Pilot,Assists in train locomotive operations.
+78,Salary & Benefits,ALP Pay,"Starting ₹19,900 (Level 2) + running allowance. Gross ~₹40K-60K/month."
+79,Eligibility,Graduation,Aged 20-25. Bachelor's.
+79,Exam Pattern,UPSC CAPF,"Written (450 marks), PET, Interview (200 marks)."
+79,Key Role,Paramilitary Commandant,Leads CAPF units in internal security.
+79,Salary & Benefits,CAPF Assistant Pay,"Starting ₹56,100 (Level 10) + uniform. Gross ~₹1-1.3L/month."
+80,Eligibility,Military Experience Preferred,Up to 42. Graduation.
+80,Exam Pattern,TA Screening + Services Test,"Written, SSB-like process."
+80,Key Role,Territorial Army Officer,Part-time defence service during emergencies.
+80,Salary & Benefits,TA Emoluments,"Starting ₹56,100 (Level 10) + annual camp pay. Gross ~₹80K-1L/month active."
+81,Eligibility,Flying Aptitude,Aged 20-24. Graduation.
+81,Exam Pattern,AFCAT + AFSB,"Written (300 marks), SSB (6 days)."
+81,Key Role,Air Force Flying Officer,Pilots combat/support aircraft.
+81,Salary & Benefits,IAF Pay + Flying Allowance,"Starting ₹56,100 (Level 10) + 28K flying pay. Gross ~₹1.2-1.8L/month."
+82,Eligibility,Teaching Qualification,Up to 40. B.Ed + CTET.
+82,Exam Pattern,CTET Papers,Paper 1/2 (150 marks each).
+82,Key Role,Govt School Teacher,Imparts primary/secondary education.
+82,Salary & Benefits,Teacher Pay Commission,"Starting ₹44,900 (Level 7) + DA. Medical. Gross ~₹60K-80K/month."
+83,Eligibility,Research-Oriented PhD,No limit. PhD + publications.
+83,Exam Pattern,UGC NET + Interview,NET qualifying + selection.
+83,Key Role,College Assistant Professor,Teaches and researches in higher education.
+83,Salary & Benefits,Academic Level 10,"Starting ₹57,700 + increments. Grants. Gross ~₹90K-1.2L/month."
+84,Eligibility,GATE Score,Aged 21-27. B.Tech.
+84,Exam Pattern,GATE + BHEL Test,GATE (qualifying) + interview.
+84,Key Role,BHEL PSU Engineer,Designs power equipment and turbines.
+84,Salary & Benefits,ETR Pay,"Starting ₹60,000 (Level 10) + bond period. Gross ~₹90K-1.2L/month."
+85,Eligibility,Insurance Sales Fit,Aged 21-30. Graduation.
+85,Exam Pattern,LIC ADO Exam,"Prelims (100 marks), Mains (300 marks)."
+85,Key Role,Development Officer,Recruits agents and promotes policies.
+85,Salary & Benefits,ADO Incentives,"Starting ₹32,795 (Level 7) + commissions. Gross ~₹50K-1L/month."
+86,Eligibility,Any Bachelor's,Aged 21-30. Graduation.
+86,Exam Pattern,NIACL Prelims/Mains,"Prelims (100 marks), Mains (250 marks + descriptive)."
+86,Key Role,Administrative Officer,Underwrites risks and claims in non-life insurance.
+86,Salary & Benefits,AO Scale,"Starting ₹32,795 (Level 7) + bonuses. Medical. Gross ~₹50K-80K/month."
+87,Eligibility,Law Degree,Up to 35. LLB.
+87,Exam Pattern,Judicial Services Exam,"Prelims, Mains (written), Viva."
+87,Key Role,Civil Judge,Adjudicates civil/criminal cases at district level.
+87,Salary & Benefits,Judicial Pay,"Starting ₹77,840 (Level 10) + allowances. Housing. Gross ~₹1.2-1.8L/month."
+88,Eligibility,Legal Expertise,Up to 40. LLB + experience.
+88,Exam Pattern,PSU Legal Exam,Written + interview.
+88,Key Role,PSU Legal Advisor,"Handles contracts, litigation for public companies."
+88,Salary & Benefits,Legal Officer Pay,"Starting ₹47,600 (Level 8) + retention bonus. Gross ~₹80K-1.2L/month."
+89,Eligibility,Commerce Graduation,Aged 18-27. Bachelor's.
+89,Exam Pattern,CGL Tiers 1-2,Objective tests.
+89,Key Role,Audit Auditor,Verifies govt accounts for irregularities.
+89,Salary & Benefits,Auditor Grade,"Starting ₹29,200 (Level 5) + DA. Gross ~₹45K-60K/month."
+90,Eligibility,Any Degree,Aged 18-27. Graduation.
+90,Exam Pattern,SSC CGL Process,"Tier 1 (200 marks), Tier 2."
+90,Key Role,Tax Assistant,Supports tax filing and records.
+90,Salary & Benefits,TA Pay Band,"Starting ₹25,500 (Level 4) + HRA. Gross ~₹40K-55K/month."
+91,Eligibility,Commerce Focus,Aged 18-30. Graduation in commerce.
+91,Exam Pattern,CGL Tier 2 Finance,200 marks specialized.
+91,Key Role,AAO in CAG,Pre-audits expenditures for accuracy.
+91,Salary & Benefits,AAO Benefits,"Starting ₹47,600 (Level 8) + audit perks. Gross ~₹70K-1L/month."
+92,Eligibility,Graduation,Aged 18-27. Bachelor's.
+92,Exam Pattern,CGL Tiers + PET,Standard with physical.
+92,Key Role,Excise Inspector,Inspects manufacturing units for duties.
+92,Salary & Benefits,Inspector Pay,"Starting ₹44,900 (Level 7) + travel. Gross ~₹70K-90K/month."
+93,Eligibility,Any Degree,Aged 18-27. Graduation.
+93,Exam Pattern,CGL Process + PET,Tiers 1-4.
+93,Key Role,Preventive Customs Officer,Prevents smuggling at ports/airports.
+93,Salary & Benefits,PO Preventive,"Starting ₹44,900 (Level 7) + risk pay. Gross ~₹70K-90K/month."
+94,Eligibility,Petroleum Engineering,Aged 21-30. B.Tech in relevant.
+94,Exam Pattern,ONGC GATE + Test,GATE score + written/interview.
+94,Key Role,Oil Exploration Engineer,Drills and explores hydrocarbon reserves.
+94,Salary & Benefits,ONGC Trainee Pay,"Starting ₹60,000 (Level 10) + oil field allowance. Gross ~₹1-1.5L/month."
+95,Eligibility,Chemical/Mech Engg,Aged 18-26. B.Tech.
+95,Exam Pattern,IOCL GATE,GATE + GD/PI.
+95,Key Role,Refinery Engineer,Operates oil refineries and processes.
+95,Salary & Benefits,IOCL ETR,"Starting ₹60,000 (Level 10) + canteen. Gross ~₹1-1.5L/month."
+96,Eligibility,Electrical Engineering,Aged 21-27. B.Tech.
+96,Exam Pattern,NTPC GATE,GATE qualifying + test.
+96,Key Role,Power Plant Executive,Manages electricity generation and distribution.
+96,Salary & Benefits,NTPC ET Pay,"Starting ₹50,000 (Level 10) + power perks. Gross ~₹90K-1.3L/month."
+97,Eligibility,Mech/Elec Engg,Aged 18-27. B.Tech.
+97,Exam Pattern,BHEL Recruitment,GATE + exam/interview.
+97,Key Role,Heavy Electrical Engineer,Builds transformers and turbines for power.
+97,Salary & Benefits,BHEL Trainee Scale,"Starting ₹60,600 (Level 10) + bond. Gross ~₹1-1.4L/month."
+98,Eligibility,Aeronautical/Mech,Aged 21-30. B.Tech.
+98,Exam Pattern,HAL Test,Written + interview.
+98,Key Role,Aircraft Manufacturing Engineer,Designs and assembles defence aircraft.
+98,Salary & Benefits,HAL Graduate Pay,"Starting ₹60,000 (Level 10) + aviation allowance. Gross ~₹1-1.5L/month."
+99,Eligibility,Mining/Engg,Aged 18-30. B.Tech.
+99,Exam Pattern,Coal India Exam,Online test + interview.
+99,Key Role,Coal Mining Officer,Oversees extraction and safety in mines.
+99,Salary & Benefits,CIL MT Pay,"Starting ₹50,000 (Level 10) + mine safety gear. Gross ~₹90K-1.3L/month."
+100,Eligibility,Chem/Engg Grad,Aged 18-27. B.Tech.
+100,Exam Pattern,GAIL Test,GATE + selection process.
+100,Key Role,Gas Pipeline Engineer,Manages natural gas transmission networks.
+100,Salary & Benefits,GAIL ETP,"Starting ₹60,000 (Level 10) + gas sector perks. Gross ~₹1-1.5L/month."
