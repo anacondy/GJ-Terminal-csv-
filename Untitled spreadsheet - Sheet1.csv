@@ -1,0 +1,98 @@
+POST NAME,EXAM NAME,CONDUCTING BODY,GROUP,GAZETTED STATUS,PAY LEVEL,SALARY (APPROX),ELIGIBILITY,AGE LIMIT,PET STATUS
+IAS Officer,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Any Graduation,21-32,No PET
+IPS Officer,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Any Graduation,21-32,PET Required
+IFS Officer (Forest),UPSC CSE,UPSC,A,Gazetted,10,"₹60,000+",Any Graduation,21-32,No PET
+RBI Grade B,RBI Grade B Exam,RBI,A,Gazetted,10,"₹70,000+",Graduation (50%+),21-30,No PET
+SBI PO,SBI PO Exam,SBI,A,Gazetted,7,"₹40,000+",Any Graduation,21-30,No PET
+IBPS PO,IBPS PO Exam,IBPS,A,Gazetted,7,"₹35,000+",Any Graduation,20-30,No PET
+SSC CGL (AAO),SSC CGL,SSC,B,Non-Gazetted,8,"₹45,000+",Any Graduation,18-32,No PET
+NDA Officer,NDA Exam,UPSC,A,Gazetted,10,"₹56,100+",10+2 (PCM),16.5-19.5,PET Required
+ISRO Scientist,ISRO ICRB,ISRO,A,Gazetted,10,"₹60,000+",B.Tech/B.E (60%+),21-35,No PET
+DRDO Scientist,DRDO Entry Test,DRDO,A,Gazetted,10,"₹60,000+",B.Tech/B.E (First Class),21-28,No PET
+Railway Group A,UPSC ESE,UPSC,A,Gazetted,10,"₹56,100+",B.Tech/B.E,21-30,No PET
+LIC AAO,LIC AAO Exam,LIC,B,Non-Gazetted,8,"₹40,000+",Any Graduation,21-30,No PET
+Indian Foreign Service,UPSC CSE,UPSC,A,Gazetted,10,"₹60,000+",Graduation,21-32,No PET
+RBI Grade-B Officer,RBI Grade B,RBI,A,Gazetted,10,"₹55,200+",Graduation,21-30,No PET
+Defence Services Officer,CDS/AFCAT/NDA,UPSC/AFA,A,Gazetted,10,"₹56,100+",12th/Graduation,19-24,PET Required
+PSU Engineer,GATE,Various PSUs,A,Gazetted,10,"₹50,000+",Engineering Graduation,21-27,No PET
+Government College Lecturer,UGC NET,UGC,B,Non-Gazetted,10,"₹37,400+",Post Graduation,21-40,No PET
+SSC Officer (CGL),SSC CGL,SSC,B,Varies,7,"₹25,500+",Graduation,18-32,No PET
+Indian Audit and Accounts Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Civil Accounts Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Corporate Law Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Defence Accounts Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Defence Estates Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Information Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Postal Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian P&T Accounts and Finance Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Junior Engineer,SSC JE,SSC,B,Non-Gazetted,6,"₹35,400+",Diploma/Graduation Engg,18-32,No PET
+Income Tax Inspector,SSC CGL,SSC,B,Gazetted,7,"₹44,900+",Graduation,18-30,No PET
+Assistant Section Officer (ASO),SSC CGL,SSC,B,Non-Gazetted,7,"₹44,900+",Graduation,20-30,No PET
+Sub Inspector (CBI),SSC CGL,SSC,B,Gazetted,7,"₹44,900+",Graduation,20-30,PET Required
+Lower Divisional Clerk,SSC CHSL,SSC,C,Non-Gazetted,2,"₹19,900+",12th,18-27,No PET
+Junior Secretariat Assistant,SSC CHSL,SSC,C,Non-Gazetted,2,"₹19,900+",12th,18-27,No PET
+Data Entry Operator,SSC CHSL,SSC,C,Non-Gazetted,4,"₹25,500+",12th,18-27,No PET
+Multi-Tasking Staff,SSC MTS,SSC,C,Non-Gazetted,1,"₹18,000+",10th,18-25,No PET
+Havaldar,Various,Various,C,Non-Gazetted,1,"₹18,000+",10th,18-25,No PET
+Peon,RRB Group D,RRB,D,Non-Gazetted,1,"₹18,000+",10th,18-33,No PET
+Driver,RRB Group D,RRB,D,Non-Gazetted,2,"₹19,900+",10th,18-33,No PET
+Pointsman,RRB Group D,RRB,D,Non-Gazetted,1,"₹18,000+",10th,18-33,No PET
+Track Maintainer,RRB Group D,RRB,D,Non-Gazetted,1,"₹18,000+",10th,18-33,No PET
+Cleaner,RRB Group D,RRB,D,Non-Gazetted,1,"₹18,000+",8th,18-33,No PET
+Indian Railway Management Service (IRMS),UPSC ESE,UPSC,A,Gazetted,10,"₹56,100+",Engg Graduation,21-30,No PET
+Indian Revenue Service (Customs & Indirect Taxes),UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Revenue Service (Income Tax),UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Trade Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Indian Ordnance Factories Service,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+Armed Forces Headquarters Civil Service,UPSC CSE,UPSC,B,Gazetted,8,"₹47,600+",Graduation,21-30,No PET
+DANICS,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+DANIPS,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,PET Required
+PONDICS,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,No PET
+PONDIPS,UPSC CSE,UPSC,A,Gazetted,10,"₹56,100+",Graduation,21-32,PET Required
+Indian Engineering Services (IES),UPSC ESE,UPSC,A,Gazetted,10,"₹56,100+",Engg Grad,21-30,No PET
+SEBI Grade A Officer,SEBI Exam,SEBI,A,Gazetted,10,"₹44,500+",Graduation,21-30,No PET
+NABARD Grade A,NABARD Exam,NABARD,A,Gazetted,10,"₹44,100+",Graduation,21-30,No PET
+NABARD Grade B,NABARD Exam,NABARD,A,Gazetted,11,"₹55,200+",Post Grad,21-30,No PET
+Doctors in Govt Hospitals,AIIMS PG/NEET PG,Various,B,Gazetted,10,"₹56,100+",MBBS,25-35,No PET
+Professors in Govt Colleges,UGC NET,UGC,A,Gazetted,12,"₹78,800+",PhD,No Age Limit,No PET
+Defence Services (Army/Navy/AF),CDS,UPSC,A,Gazetted,10,"₹56,100+",Graduation,19-24,PET Required
+Customs Officer,SSC CGL,SSC,B,Gazetted,7,"₹44,900+",Graduation,18-27,No PET
+Income Tax Officer,SSC CGL,SSC,B,Gazetted,7,"₹44,900+",Graduation,18-30,No PET
+ASO MEA,SSC CGL,SSC,B,Non-Gazetted,7,"₹44,900+",Graduation,20-30,No PET
+Indian Railway Service (IRTS),UPSC ESE,UPSC,A,Gazetted,10,"₹56,100+",Engg,21-30,No PET
+Indian Economic Service,IES Exam,UPSC,A,Gazetted,10,"₹56,100+",PG Economics,21-30,No PET
+IBPS Clerk,IBPS Clerk Exam,IBPS,B,Non-Gazetted,5,"₹19,900+",Graduation,20-28,No PET
+RBI Assistant,RBI Assistant Exam,RBI,C,Non-Gazetted,5,"₹16,900+",Graduation,20-28,No PET
+Specialist Officer (IT),IBPS SO,IBPS,B,Gazetted,8,"₹47,600+",Relevant Degree,Up to 35,No PET
+State PSC SDM,State PSC Exam,State PSC,A,Gazetted,10,"₹56,100+",Graduation,21-40,No PET
+Tehsildar,State PSC Exam,State PSC,B,Gazetted,8,"₹47,600+",Graduation,21-35,No PET
+BDO,State PSC Exam,State PSC,B,Gazetted,8,"₹47,600+",Graduation,21-35,No PET
+SSC CHSL LDC,SSC CHSL,SSC,C,Non-Gazetted,2,"₹19,900+",12th,18-27,No PET
+SSC CHSL Postal Assistant,SSC CHSL,SSC,C,Non-Gazetted,4,"₹25,500+",12th,18-27,No PET
+SSC JE Civil,SSC JE,SSC,B,Non-Gazetted,6,"₹35,400+",Diploma Engg,18-32,No PET
+SSC GD Constable,SSC GD,SSC,C,Non-Gazetted,3,"₹21,700+",10th,18-23,PET Required
+RRB NTPC Junior Clerk,RRB NTPC,RRB,C,Non-Gazetted,2,"₹19,900+",12th,18-30,No PET
+RRB NTPC Commercial Apprentice,RRB NTPC,RRB,B,Non-Gazetted,6,"₹35,400+",Graduation,18-33,No PET
+RRB NTPC Station Master,RRB NTPC,RRB,B,Gazetted,6,"₹35,400+",Graduation,18-33,No PET
+RRB Group D Track Maintainer,RRB Group D,RRB,D,Non-Gazetted,1,"₹18,000+",10th,18-33,No PET
+RRB JE,RRB JE,RRB,B,Non-Gazetted,6,"₹35,400+",Diploma Engg,18-33,No PET
+RRB ALP,RRB ALP,RRB,B,Non-Gazetted,2,"₹19,900+",10th+ITI,18-30,PET Required
+CAPF Assistant Commandant,UPSC CAPF,UPSC,A,Gazetted,10,"₹56,100+",Graduation,20-25,PET Required
+Territorial Army Officer,TA Exam,TA,A,Gazetted,10,"₹56,100+",Graduation,Up to 42,PET Required
+AFCAT Officer,AFCAT,IAF,A,Gazetted,10,"₹56,100+",Graduation,20-24,PET Required
+CTET Teacher,CTET,CBSE,C,Non-Gazetted,7,"₹44,900+",B.Ed,Up to 40,No PET
+Assistant Professor,UGC NET,UGC,A,Gazetted,10,"₹57,700+",PhD,No Limit,No PET
+GATE PSU Engineer (BHEL),GATE,BHEL,A,Gazetted,10,"₹60,000+",Engg Grad,21-27,No PET
+LIC ADO,LIC ADO Exam,LIC,B,Non-Gazetted,7,"₹32,795+",Graduation,21-30,No PET
+NIACL AO,NIACL Exam,NIACL,B,Non-Gazetted,7,"₹32,795+",Graduation,21-30,No PET
+Judicial Services (Civil Judge),Judicial Exam,High Court,A,Gazetted,10,"₹77,840+",LLB,Up to 35,No PET
+Legal Officer PSU,Various,PSU,B,Gazetted,8,"₹47,600+",LLB,Up to 40,No PET
+Auditor SSC CGL,SSC CGL,SSC,C,Non-Gazetted,5,"₹29,200+",Graduation,18-27,No PET
+Tax Assistant SSC CGL,SSC CGL,SSC,C,Non-Gazetted,4,"₹25,500+",Graduation,18-27,No PET
+Assistant Audit Officer,SSC CGL,SSC,B,Gazetted,8,"₹47,600+",Graduation Commerce,18-30,No PET
+Central Excise Inspector,SSC CGL,SSC,B,Gazetted,7,"₹44,900+",Graduation,18-27,No PET
+Preventive Officer,SSC CGL,SSC,B,Gazetted,7,"₹44,900+",Graduation,18-27,PET Required
+ONGC Graduate Trainee,ONGC Exam,ONGC,A,Gazetted,10,"₹60,000+",Engg,21-30,No PET
+IOCL Engineer,IOCL Exam,IOCL,A,Gazetted,10,"₹60,000+",Engg,18-26,No PET
+NTPC Executive Trainee,NTPC Exam,NTPC,A,Gazetted,10,"₹50,000+",Engg,21-27,No PET
+BHEL Engineer Trainee,BHEL Exam,BHEL,A,Gazetted,10,"₹60,600+",Engg,18-27,No PET
