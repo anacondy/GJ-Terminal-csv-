@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Created with ❤️ by the GJ Terminal team
+Created with ❤️ by the GJ Terminal team - Anuj Meena (GitHub Copilot)
 
 ## 🙏 Acknowledgments
 
